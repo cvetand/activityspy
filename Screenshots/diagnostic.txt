@@ -1,0 +1,8 @@
+01-20 12:34:34.754    1869-1869/edu.washington.cvetan.activityspy I/MainActivity﹕ onCreate event fired
+01-20 12:34:34.757    1869-1869/edu.washington.cvetan.activityspy I/MainActivity﹕ onStart event fired
+01-20 12:34:34.757    1869-1869/edu.washington.cvetan.activityspy I/MainActivity﹕ onResume event fired
+01-20 12:34:34.836    1869-1894/edu.washington.cvetan.activityspy W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+01-20 12:34:34.836    1869-1894/edu.washington.cvetan.activityspy W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xae0f2120, error=EGL_SUCCESS
+01-20 12:34:38.859    1869-1869/edu.washington.cvetan.activityspy I/MainActivity﹕ onPause event fired
+01-20 12:34:39.289    1869-1869/edu.washington.cvetan.activityspy I/MainActivity﹕ onStop event fired
+01-20 12:34:39.289    1869-1869/edu.washington.cvetan.activityspy E/MainActivity﹕ We're going down, Captain!
